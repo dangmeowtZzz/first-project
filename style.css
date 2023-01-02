@@ -6,3 +6,8 @@ display: flex;
 max-width: 1330px;
 min-width: 1280px;
 }
+.header__link {
+    font-size: 28px;
+    text-decoration: none;
+    color: aquamarine;
+}
