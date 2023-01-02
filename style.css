@@ -1,0 +1,8 @@
+.page {
+  font-family: 'Cormorant Garamond';  
+}
+.head {
+display: flex;
+max-width: 1330px;
+min-width: 1280px;
+}
